@@ -1,0 +1,1 @@
+1. Application java-maven-8-app-edp has been successfully deployed!!
